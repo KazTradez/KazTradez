@@ -1,6 +1,6 @@
 ### Kaz — trader & builder
 
-15+ years in markets. I build systematic trading infrastructure, AI-native products and music-tech — end to end.
+18+ years in markets. I build systematic trading infrastructure, AI-native products and music-tech — end to end.
 
 **Currently**
 
